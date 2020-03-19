@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nokmaniphone/reactcalculator/static/css/main.c265f7d8.chunk.css",
+    "main.js": "/nokmaniphone/reactcalculator/static/js/main.8112e5af.chunk.js",
+    "main.js.map": "/nokmaniphone/reactcalculator/static/js/main.8112e5af.chunk.js.map",
+    "runtime-main.js": "/nokmaniphone/reactcalculator/static/js/runtime-main.3ab3b346.js",
+    "runtime-main.js.map": "/nokmaniphone/reactcalculator/static/js/runtime-main.3ab3b346.js.map",
+    "static/js/2.25a0e13f.chunk.js": "/nokmaniphone/reactcalculator/static/js/2.25a0e13f.chunk.js",
+    "static/js/2.25a0e13f.chunk.js.map": "/nokmaniphone/reactcalculator/static/js/2.25a0e13f.chunk.js.map",
+    "index.html": "/nokmaniphone/reactcalculator/index.html",
+    "precache-manifest.31d7ed4a6aad4cf6bf9d42662e1bc9c9.js": "/nokmaniphone/reactcalculator/precache-manifest.31d7ed4a6aad4cf6bf9d42662e1bc9c9.js",
+    "service-worker.js": "/nokmaniphone/reactcalculator/service-worker.js",
+    "static/css/main.c265f7d8.chunk.css.map": "/nokmaniphone/reactcalculator/static/css/main.c265f7d8.chunk.css.map",
+    "static/js/2.25a0e13f.chunk.js.LICENSE.txt": "/nokmaniphone/reactcalculator/static/js/2.25a0e13f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ab3b346.js",
+    "static/js/2.25a0e13f.chunk.js",
+    "static/css/main.c265f7d8.chunk.css",
+    "static/js/main.8112e5af.chunk.js"
+  ]
+}
