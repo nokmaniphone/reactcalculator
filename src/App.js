@@ -1,10 +1,10 @@
-import React from 'react'
+import React, {Component} from 'react'
 import Header from './Components/Header'
 import Main from './Components/Main'
 import Display from './Components/Display'
 import NumberPad from './Components/NumberPad'
 
-class App extends React.Component {
+class App extends Component {
   state = {
     op: '',
     numOne: '',
